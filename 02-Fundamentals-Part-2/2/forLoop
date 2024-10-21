@@ -1,0 +1,53 @@
+
+
+
+
+for(let i=0; i<=10; i++){
+    console.log(`rep n. ${i}`)
+}
+
+const arr = [
+    `ale`,
+    `gob`,
+    10-1,
+    [`boh`, `boh2`, 123]
+]
+
+const types = [];
+
+for(let i =0; i<arr.length; i++){
+    console.log(arr[i], typeof arr[i])
+    types.push(typeof arr[i])
+}
+
+console.log(types)
+
+
+const years = [1991, 2007, 1969, 2020];
+
+const ages = [];
+
+for(i=0; i<years.length; i++){
+    ages[i]=2023-years[i];
+    ages.push(2023-years[i]);
+}
+console.log(ages)
+
+//continue and break
+
+
+//continue (esci dall'iterazione attuale e vai alla prossima)
+
+for(let i =0; i<arr.length; i++){
+    if(typeof arr[i] !== `string`) continue; //printo solo le string - se non e' string vado lla prossima iterazione
+    console.log(arr[i], typeof arr[i])
+}
+
+
+
+//break
+
+for(let i =0; i<arr.length; i++){
+    if(typeof arr[i] == `number`) break; //smetto di printare quando trovo 1 number
+    console.log(arr[i], typeof arr[i])
+}

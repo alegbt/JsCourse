@@ -1,0 +1,35 @@
+'use strict';
+
+//func expression
+const calcAge2 = function(birthYear){
+    return 2023 - birthYear
+}
+
+
+/*ARROW FUNCTION
+
+//le arrow function non possono usare il .this
+
+costituita da: 
+
+const calcAge3 =    - nome di variabile in cui storare il return
+birthYear           - parametro (tutto quello prima della => e' 1 param)
+=>                  - divide i parametri dal body
+2023-birthYear;     - body della funzione, qui e' solo 1 linea quindi senza le {}
+
+*/
+const calcAge3 = birthYear => 2023-birthYear;
+
+const age3 = calcAge3(1994);
+console.log(age3);
+
+
+
+const yearsUntilRetirement = (birthYear, firstName) => {
+    const age = 2023-birthYear;
+    const retirement = 65-age;
+    return `${firstName} retires in ${retirement} years`
+}
+
+console.log(yearsUntilRetirement(1994, `ugo`))
+console.log(yearsUntilRetirement(1989, `ale`))

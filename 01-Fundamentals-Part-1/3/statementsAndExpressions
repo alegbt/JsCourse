@@ -1,0 +1,13 @@
+
+
+//expression - what produces a value:
+
+3+4
+1991
+true && false && !false
+
+//statements - piece of code wich does not produce a value
+
+if(10>1){       //statement 
+    const str = `value produced`    //la stringa stessa e' un EXPRESSION, ma il costrutto if e' uno statement, di per se non produce (ritorna) 1 value
+}
