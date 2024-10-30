@@ -91,10 +91,27 @@ const state = {
   console.log(stateClone); //ha user con false poiche object.assign fa 1 copia per reference di obj
   console.log(stateDeepClone); //ha user con true
 
-
+//hotswap
 if(module.hot){
     module.hot.accept()
 }
+ 
+
+//////////////////////////////////////////////////////
+// Babel ha il suo transpiler (vedi teoria.txt) e crea dei file .js che transpilano i lcodice se attivata la funzione
+//////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -104,6 +121,8 @@ if(module.hot){
 
 
   /*
+  command list
+
 npx parcel starter/index.html
 
 

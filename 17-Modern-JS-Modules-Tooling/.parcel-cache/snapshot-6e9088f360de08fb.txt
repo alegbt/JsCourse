@@ -1,4 +1,4 @@
-6702
+6705
 127C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\core\lib\Parcel.js133739265561642944 0
 136C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\css-tree\cjs\syntax\scope\index.cjs133739265560712946 0
 112C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@ampproject133739263158046779 1
@@ -8,21 +8,20 @@
 129C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\css-tree\cjs\utils\names.cjs133739265561122944 0
 134C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\source-map\dist\source-map.min.js133739265558942945 0
 137C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\css-tree\lib\syntax\node\Function.js133739265562902942 0
+110C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\dist\index.69bd1bb0.js133739944265915975 0
 124C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\_baseIsMap.js133739218598666349 0
-110C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\dist\index.69bd1bb0.js133739274654643494 0
-103C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\dist\index.html133739274654063496 0
 100C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\starter\dist133739253998794220 1
 129C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\css-tree\lib\parser\index.js133739265563082942 0
 121C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\without.js133739218601806349 0
 147C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@swc\helpers\_\_class_extract_field_descriptor133739265559482947 1
 129C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\matchesProperty.js133739218600896342 0
 128C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\htmlparser2\lib\Parser.d.ts133739265558192956 0
-114C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\dist\index.69bd1bb0.js.map133739274654673493 0
+114C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\dist\index.69bd1bb0.js.map133739944265945977 0
 132C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\caniuse-lite\data\regions\TR.js133739265566412947 0
 143C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\transformer-image\src\loadSharp.js133739265556782954 0
 138C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\source-map\dist\source-map.min.js.map133739265559222947 0
 119C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\css-tree\cjs\utils133739265561922946 1
-92C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\dist133739274654673493 1
+92C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\dist133739944265945977 1
 141C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\reporter-cli\src\bundleReport.js133739265555972956 0
 164C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133739265558662945 0
 131C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\svgo\plugins\removeComments.js133739265560652941 0
@@ -80,7 +79,7 @@
 117C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\lte.js133739218600866349 0
 123C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\js-tokens\package.json133739265555622954 0
 159C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@swc\helpers\_\_class_private_field_loose_key\package.json133739265559892948 0
-100C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\package.json133739274872255915 0
+100C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\package.json133739279703957589 0
 141C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\core\lib\public\PluginOptions.js133739265561882943 0
 139C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\utility-types\dist\mapped-types.js.map133739265557642953 0
 117C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\json5\lib\cli.js133739265555712959 0
@@ -93,13 +92,13 @@
 158C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133739265566492951 0
 132C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\type-fest\ts41\pascal-case.d.ts133739265559052954 0
 131C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\workers\src\backend.js133739265556272950 0
-105C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\starter\script.js133739272830664026 0
+105C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\starter\script.js133739944264915977 0
 132C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\css-tree\lib\syntax\node\Nth.js133739265563312944 0
 126C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\_setCacheAdd.js133739218599786342 0
 120C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\sample.js133739218601266351 0
 134C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\type-fest\source\stringified.d.ts133739265559522946 0
 122C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\types\LICENSE133739265555662956 0
-95C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\starter133739243443590481 1
+95C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\starter133739942985506465 1
 125C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\htmlnano\lib\helpers.mjs133739265560992945 0
 115C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\dom-serializer133739265557802950 1
 131C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\sortedLastIndexBy.js133739218601346339 0
@@ -1992,6 +1991,7 @@
 132C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\caniuse-lite\data\regions\GA.js133739265564342939 0
 124C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\lodash-es\_getNative.js133739218599376346 0
 176C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133739265557092951 0
+114C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\dist\index.92c5a32f.js.map133739279753687526 0
 132C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\caniuse-lite\data\regions\IR.js133739265564892940 0
 143C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\core\lib\requests\TargetRequest.js133739265562342943 0
 173C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\README.md133739265557252950 0
@@ -6210,6 +6210,7 @@
 155C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-svgo\node_modules\css-select\LICENSE133739265555702952 0
 175C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\TokenStream.js133739265561912951 0
 160C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-svgo\node_modules\css-select\package.json133739265558082948 0
+107C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\starter\Theoria.txt133739943193159178 0
 167C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.d.ts133739265559142951 0
 171C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.d.ts.map133739265558252950 0
 168C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\compile.d.ts.map133739265558332946 0
@@ -6701,3 +6702,5 @@
 103C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\final\script.js132886955210000000 0
 107C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\final\dist\index.js132886955210000000 0
 121C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\final\dist\script.0b6e4fd3.js.map132886955210000000 0
+110C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\dist\index.92c5a32f.js133739279753617523 0
+103C:\Users\aless\Desktop\corso js\Javascript_course\my_files\17-Modern-JS-Modules-Tooling\dist\index.html133739934082757014 0
