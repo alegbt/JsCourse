@@ -9,7 +9,9 @@ import recipeView from './views/recipeView.js';
 import searchView from './views/searchView.js';
 
 
-
+if (module.hot) {
+  module.hot.accept();
+}
 
 
 const controlRecipes = async function() {
@@ -50,14 +52,12 @@ const controlSearchResults = async function() {
 
     // render rsults
     console.log(Model.state.search.results);
+    resultsView.render(Model.state.search.results)
 
   }catch(err){
     console.log(err);
   }
 }
-
-
-
 
 
 
